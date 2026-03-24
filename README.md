@@ -89,7 +89,7 @@ pip install discord.py aiohttp psutil pillow requests
 Note: `discord.py` v1.7.3 or the `discord.py-self` fork is required for selfbot functionality. Standard v2.0+ does not support user account automation.
 
 ### Configuration
-1. Open `sanction.py`
+1. Open `bot.py`
 2. Locate the `TOKEN` variable at line 25
 3. Replace with your Discord user token
 4. Adjust `PREFIX` if desired (default: `.`)
