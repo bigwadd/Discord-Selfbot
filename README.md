@@ -96,7 +96,7 @@ Note: `discord.py` v1.7.3 or the `discord.py-self` fork is required for selfbot 
 
 ### Execution
 ```bash
-python sanction.py
+python bot.py
 ```
 
 ---
